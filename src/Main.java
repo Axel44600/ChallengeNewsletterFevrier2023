@@ -27,11 +27,9 @@ public class Main {
             String valeur = (val.substring(1,val.length()-1));
 
             String[] bar4 = valeur.split("____");
-            for(String b : bar4) {
-                listOfNbs.add(b);
-            }
+            Collections.addAll(listOfNbs, bar4);
 
-            Map<Integer, Integer> listOfValues = new HashMap();
+            Map<Integer, Integer> listOfValues = new HashMap<>();
             for(int i = 0; i < listOfNbs.size(); i++) {
                 String[] bar2 = listOfNbs.get(i).split("__");
                 for(String b : bar2) {
