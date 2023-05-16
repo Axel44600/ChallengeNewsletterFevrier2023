@@ -3,12 +3,16 @@
 On vous demande de partir en expédition avec un groupe de personnes.
 L’expédition se fait traditionnellement à pied. Dès que vous vous réunissez
 avec le groupe, chacun commence à faire l’inventaire de ses
-approvisionnements. Une considération importante est la nourriture – en
+approvisionnements. 
+
+Une considération importante est la nourriture – en
 particulier, le nombre de calories que chaque personne transporte (votre
 input de défi).
 Les membres du groupe notent à tour de rôle le nombre de calories dans
 chaque repas, collations, rations, etc. qu’ils ont apporté avec eux, un article
-par ligne. Chaque personne sépare son propre inventaire de l’inventaire de
+par ligne.
+
+Chaque personne sépare son propre inventaire de l’inventaire de
 la personne précédente (le cas échéant) par une ligne vide.
 Par exemple, supposons que les membres du groupe finissent d’écrire les
 calories et se retrouvent avec la liste suivante :
