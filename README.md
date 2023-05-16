@@ -1,4 +1,4 @@
-# STUDI - ChallengeNewsletterFevrier2023 
+# STUDI - Challenge Newsletter Février 2023 
 
 On vous demande de partir en expédition avec un groupe de personnes.
 L’expédition se fait traditionnellement à pied. Dès que vous vous réunissez
